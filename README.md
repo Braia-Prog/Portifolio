@@ -1,6 +1,8 @@
+Portifolio
+
 # Olá! Bem vindo ao meu projeto de portifólio.
 
-![image]![Screenshot 2024-11-03 170853](https://github.com/user-attachments/assets/bcf825c6-7a5f-40bd-a9f9-b40f7362f4a2)
+![Screenshot 2024-11-03 170853](https://github.com/user-attachments/assets/bcf825c6-7a5f-40bd-a9f9-b40f7362f4a2)
 
 ## Ferramentas utilizadas:
 
